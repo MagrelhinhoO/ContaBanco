@@ -4,10 +4,6 @@ public class ContaTerminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-       /* public static void Espaco(){
-            System.out.println("/n");
-        }*/
-
         int numeroConta;
         String agencia;
         String nomeCliente;
